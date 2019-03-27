@@ -1,8 +1,8 @@
 <?php
 //配置信息
 $iiiLabVideoDownloadURL = "http://service.iiilab.com/video/download";   //iiiLab通用视频解析接口
-$client = "";   //iiiLab分配的客户ID
-$clientSecretKey = "";  //iiiLab分配的客户密钥
+$client = "7218de842b0db063";   //iiiLab分配的客户ID
+$clientSecretKey = "9c0226de1903ee9c898f381ee4935016";  //iiiLab分配的客户密钥
 
 //必要的参数
 $link = "https://weibo.com/tv/v/EFSNuE1Ky";
